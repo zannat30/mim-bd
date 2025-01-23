@@ -433,11 +433,29 @@ height: 256px; */
     color: rgba(14, 14, 14, 0.8);
 
 }
+.banner5-card1:hover{
+    background-color: rgb(198, 228, 214);
+
+}  
+.banner5-card2:hover{
+    background-color: rgb(198, 228, 214);
+
+}  
+.banner5-card3:hover{
+    background-color: rgb(198, 228, 214);
+
+
+}  
+.banner5-card4:hover{
+    background-color: rgb(198, 228, 214);
+
+}
 
 .banner5-card1 {
     box-sizing: border-box;
     border: 1px solid rgba(14, 14, 14, 0.15);
     border-radius: 16px;
+    
 
     background: rgb(255, 255, 255);
     padding: 40px;
@@ -447,10 +465,11 @@ height: 256px; */
     box-sizing: border-box;
     border: 1px solid rgba(14, 14, 14, 0.15);
     border-radius: 16px;
+    background: rgb(255, 255, 255);
 
 
     padding: 40px;
-    background-color: rgb(198, 228, 214);
+   
 
 }
 
